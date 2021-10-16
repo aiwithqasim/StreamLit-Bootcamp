@@ -1,4 +1,6 @@
-![hacktoberfest](https://github.com/qasim1020/StreamLit-Bootcamp/blob/qasim1020/wallpaper.png)
+<p align="center">
+  <img src="https://github.com/qasim1020/StreamLit-Bootcamp/blob/qasim1020/wallpaper.png" />
+</p>
 <div align="center">
 	<p>
         <b><i>Let's Contribute To Open-source</i></b>
