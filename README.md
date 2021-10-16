@@ -1,4 +1,4 @@
-![hacktoberfest](https://github.com/qasim1020/Free-Artificial-Intelligence-Resources/blob/main/Images/hacktoberfest.png)
+![hacktoberfest](https://github.com/qasim1020/StreamLit-Bootcamp/blob/qasim1020/wallpaper.png)
 <div align="center">
 	<p>
         <b><i>Let's Contribute To Open-source</i></b>
