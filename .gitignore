@@ -1,2 +1,6 @@
 .ipynb_checkpoints
 data
+ignore
+media
+model.h5
+model.json
